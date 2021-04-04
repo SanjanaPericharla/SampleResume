@@ -1,0 +1,174 @@
+
+.first{
+    display:block;
+    background-color: beige;
+    box-shadow: 10px 10px 8px #888888;
+    height : 100%;
+    width : 55%;
+    margin-left : 270px;
+}
+
+.name{
+    margin-left: 20px;
+   position:relative;
+   top:100px;
+
+}
+.image{
+    width:30%;
+    height:30%;
+    margin-left: 410px;
+    margin-bottom: 100px;
+}
+
+
+.details{
+    position: relative;
+    text-align: left;
+    bottom : 70px;
+    right: 40px;
+    margin-left:400px;
+    
+
+    
+}
+.obj{
+    margin-left: 20px;
+}
+.objective{
+    position : relative;
+    text-align: left;
+    bottom : 50px;
+    right: 40px;
+    font-size: 11px;
+    margin-left : 220px;
+}
+.experience{
+    margin-left: 20px;
+    font-size: 15px;
+}
+.text2{
+    margin-left: 250px;
+    position: relative;
+    bottom:100px;
+    left:100px;
+
+}
+.text3{
+    margin-left: 250px;
+    position: relative;
+    bottom:100px;
+    left:100px;
+    font-size: 18px;
+}
+.exp{
+    position : relative;
+    text-align: left;
+    bottom : 100px;
+    right: 40px;
+    margin-left: 320px;
+    font-size: 10px;
+}
+.education{
+    margin-left: 20px;
+}
+.edu{
+    position : relative;
+    text-align: left;
+    bottom : 100px;
+    right: 40px;
+    font-size: 10px;
+    margin-left: 400px;
+}
+.text4{
+    margin-right : 10px;
+}
+.skills{
+    margin-left: 20px;
+    font-size: 10px;
+}
+.customer{
+    position: relative;
+    right: 10px;
+}
+.french{
+    position: relative;
+    right: 170px;
+    bottom :2px
+}
+.text{
+    position: relative;
+    bottom : 10px;
+}
+.table{
+    border: 1px solid black;
+    margin-left: 100px;
+    height : 20%;
+}
+.th{
+    border:1px solid black;
+}
+.td{
+    border:1px solid black;
+}
+.languages{
+    position : relative;
+    text-align: right;
+    bottom : 100px;
+    left: px;
+    font-size: 10px;
+}
+.References{
+    position : relative;
+    text-align: left;
+    bottom : 230px;
+    right: 90px;
+    font-size: 10px;
+    margin-right: 50px;
+}
+.proj{
+    margin-left: 20px ;
+    font-size: 20px;
+
+}
+.Project{
+    position : relative;
+    text-align: right;
+    bottom : 50px;
+    right: 90px;
+    
+}
+.achieve{
+    margin-left: 20px;
+    font-size: 20px;
+}
+.Achievements{
+    position : relative;
+    text-align: right;
+    bottom : 50px;
+    right: 90px;
+}
+.certificates{
+    margin-left: 20px ;
+    font-size: 20px;
+}
+.Certifications{
+    position : relative;
+    text-align: right;
+    bottom : 50px;
+    right: 90px;
+}
+.list{
+    margin-left:500px;
+    text-align: left;
+
+}
+.list1{
+    margin-left:500px;
+    text-align: left;
+}
+.list2{
+    margin-left:500px;
+    text-align: left;
+}
+
